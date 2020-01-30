@@ -1,0 +1,15 @@
+{
+    "name": "marlinf/tests",
+    "authors": [
+        {
+            "name": "datashaman",
+            "email": "marlinf@datashaman.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0",
+        "erusev/parsedown": "^1.7",
+        "illuminate/support": "^6.13",
+        "webuni/front-matter": "^1.1"
+    }
+}
